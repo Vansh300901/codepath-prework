@@ -6,7 +6,7 @@ This App allows a person to introduce themselves by entering their first and las
 
 ### App Walk-though
 
-<img src="https://github.com/Vansh300901/codepath-prework/blob/main/Prework.gif" width=200><br>
+<img src="https://github.com/Vansh300901/codepath-prework/blob/main/Prework.gif" width=800><br>
 
 
 ### Required Features
