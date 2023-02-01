@@ -6,9 +6,7 @@ This App allows a person to introduce themselves by entering their first and las
 
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<img src="https://github.com/Vansh300901/codepath-prework/blob/main/Prework.gif" width=200><br>
 
 
 ### Required Features
